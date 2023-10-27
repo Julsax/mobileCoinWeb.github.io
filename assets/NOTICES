@@ -6490,6 +6490,8 @@ path_provider_platform_interface
 path_provider_windows
 platform
 plugin_platform_interface
+url_launcher_android
+url_launcher_platform_interface
 xdg_directories
 
 Copyright 2013 The Flutter Authors. All rights reserved.
@@ -13493,6 +13495,7 @@ shall not be used in advertising or otherwise to promote the sale,
 use or other dealings in these Data Files or Software without prior
 written authorization of the copyright holder.
 --------------------------------------------------------------------------------
+http
 http_parser
 matcher
 path
