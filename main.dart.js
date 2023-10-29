@@ -55295,7 +55295,7 @@ s=A.bR(r,n,s).w
 q=!o.r&&!0
 r=A.hw(50)
 p=A.a([new A.dV(3,B.b0,A.aL(B.c.bC(127.5),156,39,176),B.di,10)],t.xq)
-return A.WI(new A.cV(B.tZ,n,n,A.k6(n,A.Nb(B.JK,new A.a0W(o),A.y8(n,n,B.R,n,n,n,0,n,n,B.R,n,n,n,n,new A.c2(A.hw(50),B.r),n,n,n,n)),n,new A.ew(n,n,n,r,p,B.cZ,B.aA),s.a.b*0.08,n,n,m.a.a*0.25),n),q)},
+return A.WI(new A.cV(B.tZ,n,n,A.k6(n,A.Nb(B.JK,new A.a0W(o),A.y8(n,n,B.R,n,n,n,0,n,n,B.R,n,n,n,n,new A.c2(A.hw(50),B.r),n,n,n,n)),n,new A.ew(n,n,n,r,p,B.cZ,B.aA),s.a.b*0.08,n,n,m.a.a*0.3),n),q)},
 VX(){var s,r,q,p,o=this,n=null,m=o.c
 m.toString
 s=t.w
@@ -55306,7 +55306,7 @@ s=A.bR(r,n,s).w
 q=!o.r&&!0
 r=A.hw(50)
 p=A.a([new A.dV(3,B.b0,A.aL(B.c.bC(127.5),156,39,176),B.di,10)],t.xq)
-return A.WI(new A.cV(B.u1,n,n,A.k6(n,A.Nb(B.JI,new A.a10(o),A.y8(n,n,B.R,n,n,n,0,n,n,B.R,n,n,n,n,new A.c2(A.hw(50),B.r),n,n,n,n)),n,new A.ew(n,n,n,r,p,B.cZ,B.aA),s.a.b*0.08,n,n,m.a.a*0.25),n),q)}}
+return A.WI(new A.cV(B.u1,n,n,A.k6(n,A.Nb(B.JI,new A.a10(o),A.y8(n,n,B.R,n,n,n,0,n,n,B.R,n,n,n,n,new A.c2(A.hw(50),B.r),n,n,n,n)),n,new A.ew(n,n,n,r,p,B.cZ,B.aA),s.a.b*0.08,n,n,m.a.a*0.3),n),q)}}
 A.a0X.prototype={
 $2(a,b){var s,r,q
 if(b===B.bi){A.iB("Dispositivo en orientaci\xf3n vertical")
@@ -59395,7 +59395,7 @@ B.Ii=new A.j(!0,B.h,null,"Roboto",null,null,null,null,null,null,null,null,null,n
 B.JG=new A.cA(B.HX,B.Jk,B.J1,B.Gu,B.IU,B.HR,B.Jo,B.H_,B.Hx,B.IN,B.Gl,B.J2,B.IR,B.IJ,B.Ii)
 B.tp=new A.j(!0,B.h,null,null,null,null,22,B.aL,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.JJ=new A.fr("More info",null,B.tp,null,null)
-B.tq=new A.j(!0,B.h,null,null,null,null,32,B.aL,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.tq=new A.j(!0,B.h,null,null,null,null,26,B.aL,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.JI=new A.fr("More info",null,B.tq,null,null)
 B.JL=new A.fr("Download now",null,B.tp,null,null)
 B.JK=new A.fr("Download now",null,B.tq,null,null)
