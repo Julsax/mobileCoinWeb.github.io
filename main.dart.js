@@ -55204,7 +55204,7 @@ r=p.a
 o=p.b
 n=o*0.05
 m=t.d
-return A.rU(B.aY,A.a([q,new A.cV(B.u_,l,l,new A.ec(new A.b7(r*0.05,n,0,n),A.rU(B.aY,A.a([A.k6(l,B.JM,B.R,l,o*0.8,l,l,r*0.64)],m),B.cq),l),l),s.XG()],m),B.cq)},
+return A.rU(B.aY,A.a([q,new A.cV(B.u_,l,l,new A.ec(new A.b7(r*0.05,n,0,n),A.rU(B.aY,A.a([A.k6(l,B.JK,B.R,l,o*0.8,l,l,r*0.64)],m),B.cq),l),l),s.XG()],m),B.cq)},
 $S:93}
 A.a0T.prototype={
 $0(){var s,r=this.a.c
@@ -55273,7 +55273,7 @@ s=A.bR(r,n,s).w
 q=o.r&&!0
 r=A.hw(50)
 p=A.a([new A.dV(3,B.b0,A.aL(B.c.bC(127.5),156,39,176),B.di,10)],t.xq)
-return A.WI(new A.cV(B.u3,n,n,A.k6(n,A.Nb(B.JL,new A.a0V(o),A.y8(n,n,B.R,n,n,n,0,n,n,B.R,n,n,n,n,new A.c2(A.hw(50),B.r),n,n,n,n)),n,new A.ew(n,n,n,r,p,B.cZ,B.aA),s.a.b*0.08,n,n,m.a.a*0.12),n),q)},
+return A.WI(new A.cV(B.u3,n,n,A.k6(n,A.Nb(B.JM,new A.a0V(o),A.y8(n,n,B.R,n,n,n,0,n,n,B.R,n,n,n,n,new A.c2(A.hw(50),B.r),n,n,n,n)),n,new A.ew(n,n,n,r,p,B.cZ,B.aA),s.a.b*0.08,n,n,m.a.a*0.12),n),q)},
 VW(){var s,r,q,p,o=this,n=null,m=o.c
 m.toString
 s=t.w
@@ -55295,7 +55295,7 @@ s=A.bR(r,n,s).w
 q=!o.r&&!0
 r=A.hw(50)
 p=A.a([new A.dV(3,B.b0,A.aL(B.c.bC(127.5),156,39,176),B.di,10)],t.xq)
-return A.WI(new A.cV(B.tZ,n,n,A.k6(n,A.Nb(B.JK,new A.a0W(o),A.y8(n,n,B.R,n,n,n,0,n,n,B.R,n,n,n,n,new A.c2(A.hw(50),B.r),n,n,n,n)),n,new A.ew(n,n,n,r,p,B.cZ,B.aA),s.a.b*0.08,n,n,m.a.a*0.36),n),q)},
+return A.WI(new A.cV(B.tZ,n,n,A.k6(n,A.Nb(B.JL,new A.a0W(o),A.y8(n,n,B.R,n,n,n,0,n,n,B.R,n,n,n,n,new A.c2(A.hw(50),B.r),n,n,n,n)),n,new A.ew(n,n,n,r,p,B.cZ,B.aA),s.a.b*0.08,n,n,m.a.a*0.36),n),q)},
 VX(){var s,r,q,p,o=this,n=null,m=o.c
 m.toString
 s=t.w
@@ -59397,10 +59397,10 @@ B.tp=new A.j(!0,B.h,null,null,null,null,17,B.aL,null,null,null,null,null,null,nu
 B.JI=new A.fr("More info",null,B.tp,null,null)
 B.tq=new A.j(!0,B.h,null,null,null,null,22,B.aL,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.JJ=new A.fr("More info",null,B.tq,null,null)
-B.JK=new A.fr("Download now",null,B.tp,null,null)
-B.JL=new A.fr("Download now",null,B.tq,null,null)
 B.I8=new A.j(!0,B.h,null,null,null,null,18,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.JM=new A.fr("-MobileCoin in your pocket: With MobileCoin, you'll have the ability to carry a revolutionary cryptocurrency with you on your mobile device. You no longer need to rely on complicated exchange platforms or specialized equipment to access this cryptocurrency. \n\n-Simple one-touch mining: Forget about complicated settings and high hardware requirements. With MobileCoin, you can mine the cryptocurrency with just a tap on your mobile phone. This feature simplifies mining and makes it accessible to anyone interested in participating. \n\n-No hidden fees: At MobileCoin, we are committed to providing you with a surprise-free experience. We don't charge any fees, whether for mining or for making transfers. You can enjoy all the advantages of MobileCoin without worrying about additional charges. Our platform is designed to be transparent and accessible, without hidden costs, allowing you to manage your digital assets efficiently and cost-effectively. \n\n-Instant transactions: When sending and receiving MobileCoins, you can conduct transactions quickly and securely. Say goodbye to the long waits associated with other cryptocurrencies. MobileCoin has been designed to make transactions almost instantaneous, making it a convenient option for both daily transactions and international transfers. \n\n-Integrated marketplace: Do you have products or services you want to sell? MobileCoin will provide you with an integrated marketplace where you can list your products and receive MobileCoins in return. This streamlines the buying and selling process and expands the possibilities of trade within the MobileCoin community. \n\n-Cutting-edge security: Security is a priority at MobileCoin. It utilizes advanced encryption and protection technologies to safeguard your assets and data. You can trust that your transactions and personal information are protected with the highest security standards. \n\nMobileCoin has arrived to transform the way we interact with cryptocurrencies, making them more accessible and user-friendly for everyone. And the best part is, you no longer have to wait to join the cryptocurrency revolution! The MobileCoin application is available and ready for download. Now you can enjoy a new way to manage your digital assets securely and efficiently right from the palm of your hand. Don't wait any longer, download it and start experiencing everything MobileCoin has to offer!",null,B.I8,null,null)
+B.JK=new A.fr("-MobileCoin in your pocket: With MobileCoin, you'll have the ability to carry a revolutionary cryptocurrency with you on your mobile device. You no longer need to rely on complicated exchange platforms or specialized equipment to access this cryptocurrency. \n\n-Simple one-touch mining: Forget about complicated settings and high hardware requirements. With MobileCoin, you can mine the cryptocurrency with just a tap on your mobile phone. This feature simplifies mining and makes it accessible to anyone interested in participating. \n\n-No hidden fees: At MobileCoin, we are committed to providing you with a surprise-free experience. We don't charge any fees, whether for mining or for making transfers. You can enjoy all the advantages of MobileCoin without worrying about additional charges. Our platform is designed to be transparent and accessible, without hidden costs, allowing you to manage your digital assets efficiently and cost-effectively. \n\n-Instant transactions: When sending and receiving MobileCoins, you can conduct transactions quickly and securely. Say goodbye to the long waits associated with other cryptocurrencies. MobileCoin has been designed to make transactions almost instantaneous, making it a convenient option for both daily transactions and international transfers. \n\n-Integrated marketplace: Do you have products or services you want to sell? MobileCoin will provide you with an integrated marketplace where you can list your products and receive MobileCoins in return. This streamlines the buying and selling process and expands the possibilities of trade within the MobileCoin community. \n\n-Cutting-edge security: Security is a priority at MobileCoin. It utilizes advanced encryption and protection technologies to safeguard your assets and data. You can trust that your transactions and personal information are protected with the highest security standards. \n\nMobileCoin has arrived to transform the way we interact with cryptocurrencies, making them more accessible and user-friendly for everyone. And the best part is, you no longer have to wait to join the cryptocurrency revolution! The MobileCoin application is available and ready for download. Now you can enjoy a new way to manage your digital assets securely and efficiently right from the palm of your hand. Don't wait any longer, download it and start experiencing everything MobileCoin has to offer!",null,B.I8,null,null)
+B.JL=new A.fr("Download",null,B.tp,null,null)
+B.JM=new A.fr("Download",null,B.tq,null,null)
 B.M8=new A.Wj(0,"system")
 B.tr=new A.tf(0)
 B.JO=new A.tf(0.5)
