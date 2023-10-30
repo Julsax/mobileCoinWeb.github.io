@@ -62493,7 +62493,7 @@ r.toString
 r=A.bC(r,s,t.w).w
 return new A.d3(B.vl,s,s,A.akK(s,new A.ne(A.acA(s,s,new A.qI("assets/images/arrow_back.png",r.a.a*0.02,s,s)),s,s,s,s),s,new A.a5w(this)),s)}}
 A.a5u.prototype={
-$2(a,b){var s,r,q,p,o,n,m,l,k,j,i,h=null
+$2(a,b){var s,r,q,p,o,n,m,l,k,j,i=null
 if(b===B.bF){A.jk("Dispositivo en orientaci\xf3n vertical")
 s=this.a
 s.f=!1
@@ -62508,30 +62508,28 @@ r=s.d
 q=$.yw().d
 q===$&&A.b()
 q=q.a
-q=A.OJ(A.abv(r,B.i1,q.b,q.a),h,h)
+q=A.OJ(A.abv(r,B.i1,q.b,q.a),i,i)
 r=s.c
 r.toString
 p=t.w
-o=A.bC(r,h,p).w.a
+o=A.bC(r,i,p).w.a
 if(s.f)s.r=!0
 r=s.r
 n=o.a
 m=o.b
 l=m*0.05
 k=t.r
-r=A.v7(new A.d3(B.hV,h,h,new A.e9(new A.bf(n*0.05,l,0,l),A.uy(B.bs,A.a([A.jw(h,B.Ly,B.K,h,m*0.8,h,h,n*0.64)],k),B.cT),h),h),r)
+r=A.v7(new A.d3(B.hV,i,i,new A.e9(new A.bf(n*0.05,l,0,l),A.uy(B.bs,A.a([A.jw(i,B.Ly,B.K,i,m*0.8,i,i,n*0.64)],k),B.cT),i),i),r)
 n=s.c
 n.toString
-o=A.bC(n,h,p).w.a
+o=A.bC(n,i,p).w.a
 if(!s.f)s.w=!0
 p=s.w
-n=o.a
-m=o.b
-l=m*0.05
-m=A.a([A.jw(h,B.LB,B.K,h,m*0.8,h,h,n*0.64)],k)
-j=A.aR([null,0],t.st,t.S)
-i=B.vq
-return A.uy(B.bs,A.a([q,r,A.v7(new A.d3(B.hV,h,h,new A.e9(new A.bf(n*0.05,l,0,l),new A.BR(new A.YS(!0,!0,!0,m,j),h,B.aZ,!1,h,h,i,!1,h,1,B.b2,B.Fd,h,B.ab,h),h),h),p),s.a3G()],k),B.cT)},
+n=o.b*0.05
+m=A.a([A.jw(i,B.LB,B.K,i,i,i,i,i)],k)
+l=A.aR([null,0],t.st,t.S)
+j=B.vq
+return A.uy(B.bs,A.a([q,r,A.v7(new A.d3(B.hV,i,i,new A.e9(new A.bf(o.a*0.05,n,0,n),new A.BR(new A.YS(!0,!0,!0,m,l),i,B.aZ,!1,i,i,j,!1,i,1,B.b2,B.Fd,i,B.ab,i),i),i),p),s.a3G()],k),B.cT)},
 $S:124}
 A.a5w.prototype={
 $0(){var s,r=this.a.c
