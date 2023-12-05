@@ -62631,7 +62631,7 @@ s=q}while(true)switch(s){case 0:q=3
 s=6
 return A.Y(A.arH(A.fS(a)),$async$nl)
 case 6:n=c
-if(n.b===200){m="mobileCoin_0.6.0.apk"
+if(n.b===200){m="mobileCoin_1.0.0.apk"
 l=A.aj0([n.w])
 i=(self.URL||self.webkitURL).createObjectURL(l)
 i.toString
